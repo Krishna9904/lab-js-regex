@@ -13,7 +13,7 @@ form {
     background-color: aliceblue;
 }
 
-form>p{
+form p{
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -26,4 +26,8 @@ input{
 }
 .alert{
     color: red;
+}
+.app{
+    border:2px solid blue;
+    background-color: rgb(85, 165, 137);
 }
